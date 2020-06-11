@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pathfinder">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Mvsc"></activity>
+        <activity android:name=".Mtech" />
+        <activity android:name=".Msc" />
+        <activity android:name=".Mphil" />
+        <activity android:name=".Mpharma" />
+        <activity android:name=".Md" />
+        <activity android:name=".Mcom" />
+        <activity android:name=".Mca" />
+        <activity android:name=".Mba" />
+        <activity android:name=".Marc" />
+        <activity android:name=".Ma" />
+        <activity android:name=".Bscbmr" />
+        <activity android:name=".Bftech" />
+        <activity android:name=".Bscbed" />
+        <activity android:name=".Bfs" />
+        <activity android:name=".Blit" />
+        <activity android:name=".Bsc_Bmr" />
+        <activity android:name=".Bht" />
+        <activity android:name=".Bta" />
+        <activity android:name=".Bsla" />
+        <activity android:name=".Bvsc" />
+        <activity android:name=".Llb" />
+        <activity android:name=".Mjmc" />
+        <activity android:name=".Bbm" />
+        <activity android:name=".Bf_Tech" />
+        <activity android:name=".Bfa" />
+        <activity android:name=".Bcj" />
+        <activity android:name=".Bcs" />
+        <activity android:name=".bds" />
+        <activity android:name=".bsc_bed" />
+        <activity android:name=".Mbbs" />
+        <activity android:name=".Bed" />
+        <activity android:name=".Btech" />
+        <activity android:name=".Be" />
+        <activity android:name=".Bpe" />
+        <activity android:name=".Bba" />
+        <activity android:name=".Barc" />
+        <activity android:name=".BaLlb" />
+        <activity android:name=".Bcom" />
+        <activity android:name=".Bsc" />
+        <activity android:name=".Bhmct" />
+        <activity android:name=".Beied" />
+        <activity android:name=".Ba" />
+        <activity android:name=".Bca" />
+        <activity android:name=".Bams" />
+        <activity android:name=".Bbs" />
+        <activity
+            android:name=".CGPA"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PG"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UG"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HighSchool"
+            android:screenOrientation="portrait" />
+        <activity android:name=".view" />
+        <activity
+            android:name=".Qualification"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    tools:context=".UG">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/ba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BA"
+            android:background="@color/colorPrimaryDark"/>
+
+        <Button
+            android:id="@+id/bsc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B.SC"
+            android:background="@color/colorAccent"/>
+
+        <Button
+            android:id="@+id/bcom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B.COM"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:id="@+id/ballb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BA LLB"
+            android:background="@color/Red"/>
+
+        <Button
+            android:id="@+id/barc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B.ARC"
+            android:background="@color/Magenta"/>
+
+        <Button
+            android:id="@+id/bba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BBA"
+            android:background="@color/Green"/>
+
+        <Button
+            android:id="@+id/bpe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BPE"
+            android:background="@color/Brown"/>
+
+        <Button
+            android:id="@+id/be"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B.E"
+            android:background="@color/Blue"/>
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B.TECH"
+            android:background="@color/colorAccent"/>
+
+        <Button
+            android:id="@+id/bed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BED"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:id="@+id/mbbs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MBBS"
+            android:background="@color/Red"/>
+
+        <Button
+            android:id="@+id/bscbed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BSC/BED"
+            android:background="@color/Magenta"/>
+
+        <Button
+            android:id="@+id/bds"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BDS"
+            android:background="@color/Green"/>
+
+        <Button
+            android:id="@+id/bbs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BBS"
+            android:background="@color/Brown"/>
+
+        <Button
+            android:id="@+id/bams"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BAMS"
+            android:background="@color/Blue"/>
+
+        <Button
+            android:id="@+id/bca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BCA"
+            android:background="@color/colorPrimaryDark"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bcs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BCS"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:id="@+id/bcj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BCJ"
+            android:background="@color/Red"/>
+
+        <Button
+            android:id="@+id/bfa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BFA"
+            android:background="@color/Magenta"/>
+
+        <Button
+            android:id="@+id/bftech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BF TECH"
+            android:background="@color/Green"/>
+
+        <Button
+            android:id="@+id/bbm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BBM"
+            android:background="@color/Brown"/>
+
+        <Button
+            android:id="@+id/mjmc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MJMC"
+            android:background="@color/Blue"/>
+
+        <Button
+            android:id="@+id/llb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LLB"
+            android:background="@color/colorPrimaryDark"/>
+
+        <Button
+            android:id="@+id/bvsc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BVSC"
+            android:background="@color/colorAccent"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bsla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BSLA"
+            android:background="@color/Red"/>
+
+        <Button
+            android:id="@+id/bta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BTA"
+            android:background="@color/Magenta"/>
+
+        <Button
+            android:id="@+id/bht"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BHT"
+            android:background="@color/Green"/>
+
+        <Button
+            android:id="@+id/bmr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BSC/BMR"
+            android:background="@color/Brown"/>
+
+        <Button
+            android:id="@+id/blit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B LIT"
+            android:background="@color/Blue"/>
+
+        <Button
+            android:id="@+id/bhmct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BHMCT"
+            android:background="@color/colorPrimaryDark"/>
+
+        <Button
+            android:id="@+id/bfs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BFS"
+            android:background="@color/colorAccent"/>
+
+        <Button
+            android:id="@+id/beied"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BEIED"
+            android:background="@color/colorPrimary"/>
+
+
+    </LinearLayout>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

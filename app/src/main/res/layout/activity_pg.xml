@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PG">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/ma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MA" />
+
+        <Button
+            android:id="@+id/marc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MARC" />
+
+        <Button
+            android:id="@+id/mba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MBA" />
+
+        <Button
+            android:id="@+id/mca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MCA" />
+
+        <Button
+            android:id="@+id/mcom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MCOM" />
+
+        <Button
+            android:id="@+id/md"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MD" />
+
+        <Button
+            android:id="@+id/mpharma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MPHARMA" />
+
+        <Button
+            android:id="@+id/mphil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MPHIL" />
+
+        <Button
+            android:id="@+id/msc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MSC" />
+
+        <Button
+            android:id="@+id/mtech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="M TECH" />
+
+        <Button
+            android:id="@+id/mvsc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MVSC" />
+
+
+
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
